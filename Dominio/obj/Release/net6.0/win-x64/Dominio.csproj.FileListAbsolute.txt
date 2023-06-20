@@ -1,0 +1,12 @@
+c:\Proyecto1\EM-v0\em-api\Dominio\bin\Release\net6.0\win-x64\Dominio.deps.json
+c:\Proyecto1\EM-v0\em-api\Dominio\bin\Release\net6.0\win-x64\Dominio.dll
+c:\Proyecto1\EM-v0\em-api\Dominio\bin\Release\net6.0\win-x64\Dominio.pdb
+c:\Proyecto1\EM-v0\em-api\Dominio\obj\Release\net6.0\win-x64\Dominio.csproj.AssemblyReference.cache
+c:\Proyecto1\EM-v0\em-api\Dominio\obj\Release\net6.0\win-x64\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Proyecto1\EM-v0\em-api\Dominio\obj\Release\net6.0\win-x64\Dominio.AssemblyInfoInputs.cache
+c:\Proyecto1\EM-v0\em-api\Dominio\obj\Release\net6.0\win-x64\Dominio.AssemblyInfo.cs
+c:\Proyecto1\EM-v0\em-api\Dominio\obj\Release\net6.0\win-x64\Dominio.csproj.CoreCompileInputs.cache
+c:\Proyecto1\EM-v0\em-api\Dominio\obj\Release\net6.0\win-x64\Dominio.dll
+c:\Proyecto1\EM-v0\em-api\Dominio\obj\Release\net6.0\win-x64\refint\Dominio.dll
+c:\Proyecto1\EM-v0\em-api\Dominio\obj\Release\net6.0\win-x64\Dominio.pdb
+c:\Proyecto1\EM-v0\em-api\Dominio\obj\Release\net6.0\win-x64\ref\Dominio.dll

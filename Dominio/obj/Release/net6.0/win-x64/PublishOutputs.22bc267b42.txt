@@ -1,0 +1,3 @@
+c:\Proyecto1\EM-v0\em-api\Dominio\bin\Release\net6.0\win-x64\publish\Dominio.deps.json
+c:\Proyecto1\EM-v0\em-api\Dominio\bin\Release\net6.0\win-x64\publish\Dominio.pdb
+c:\Proyecto1\EM-v0\em-api\Dominio\bin\Release\net6.0\win-x64\publish\Dominio.dll
