@@ -14,6 +14,7 @@ C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\FluentValidation.
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\FluentValidation.DependencyInjectionExtensions.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\Humanizer.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\iTextSharp.LGPLv2.Core.dll
+C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\MailKit.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\MediatR.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\MediatR.Contracts.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\MediatR.Extensions.Microsoft.DependencyInjection.dll
@@ -43,6 +44,7 @@ C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Identit
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\MimeKit.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\SkiaSharp.dll
@@ -52,8 +54,10 @@ C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNe
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\System.Drawing.Common.dll
+C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\System.Formats.Asn1.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\System.Runtime.Caching.dll
+C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.Pkcs.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\System.Security.Permissions.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\System.Text.Encoding.CodePages.dll
@@ -72,6 +76,7 @@ C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
 C:\Proyecto1\EM-v0\em-api\WebAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

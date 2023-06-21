@@ -8,20 +8,23 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZfJITpP31EGYdxLchrV8UQAAAAACAAAAAAAQZgAAAAEAACAAAACm8XnozVh5kx9C9KZj0VlonSgUiVRG9b8WTShTmQPH2QAAAAAOgAAAAAIAACAAAAB0tmqQs4cRloNC8R/of0+G8oy51dH710MqsrRksa7fEiAAAAAP7/kvcKD0Mv76mj0UQPgelO5lJmTyC4rxRrzv2QW3xEAAAADgfxjxO4LHjJF37Lj/Z0IPXw3xzBkZWPWvIKw1ZZ6kYsEMN3bTu0NNl4/dEJZ6pCU/hRdp0Nj0d41T+UA4zd5O</EncryptedPassword>
     <_PublishTargetUrl>ftp://198.37.116.42/www.proyectoIW.somee.com</_PublishTargetUrl>
-    <History>True|2023-06-20T08:41:45.6985070Z;False|2023-06-20T02:38:20.2316821-06:00;True|2023-06-19T16:15:39.2078052-06:00;False|2023-06-19T16:12:16.5666090-06:00;False|2023-06-19T16:08:30.5344186-06:00;</History>
+    <History>True|2023-06-21T01:26:41.9695024Z;True|2023-06-20T18:37:58.3038147-06:00;True|2023-06-20T02:41:45.6985070-06:00;False|2023-06-20T02:38:20.2316821-06:00;True|2023-06-19T16:15:39.2078052-06:00;False|2023-06-19T16:12:16.5666090-06:00;False|2023-06-19T16:08:30.5344186-06:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="Aplicacion.dll">
-      <publishTime>06/20/2023 02:36:48</publishTime>
+      <publishTime>06/20/2023 21:21:19</publishTime>
     </File>
     <File Include="Aplicacion.pdb">
-      <publishTime>06/20/2023 02:36:48</publishTime>
+      <publishTime>06/20/2023 21:21:19</publishTime>
     </File>
     <File Include="appsettings.Development.json">
       <publishTime>05/14/2023 23:42:39</publishTime>
     </File>
     <File Include="appsettings.json">
-      <publishTime>06/19/2023 16:04:07</publishTime>
+      <publishTime>06/20/2023 19:55:10</publishTime>
+    </File>
+    <File Include="appsettings.production.json">
+      <publishTime>06/20/2023 21:30:36</publishTime>
     </File>
     <File Include="AutoMapper.dll">
       <publishTime>01/16/2023 09:41:56</publishTime>
@@ -30,7 +33,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>04/08/2023 23:58:02</publishTime>
     </File>
     <File Include="BouncyCastle.Cryptography.dll">
-      <publishTime>11/15/2022 01:29:40</publishTime>
+      <publishTime>04/21/2023 06:06:40</publishTime>
     </File>
     <File Include="Dapper.dll">
       <publishTime>11/03/2021 08:07:40</publishTime>
@@ -55,6 +58,9 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
     </File>
     <File Include="iTextSharp.LGPLv2.Core.dll">
       <publishTime>05/13/2023 01:17:16</publishTime>
+    </File>
+    <File Include="MailKit.dll">
+      <publishTime>06/17/2023 11:20:18</publishTime>
     </File>
     <File Include="MediatR.Contracts.dll">
       <publishTime>01/10/2022 08:06:26</publishTime>
@@ -143,6 +149,9 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
     <File Include="Microsoft.Win32.SystemEvents.dll">
       <publishTime>11/15/2019 02:36:56</publishTime>
     </File>
+    <File Include="MimeKit.dll">
+      <publishTime>06/17/2023 09:05:14</publishTime>
+    </File>
     <File Include="Newtonsoft.Json.Bson.dll">
       <publishTime>11/27/2018 17:10:18</publishTime>
     </File>
@@ -185,6 +194,9 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
     <File Include="runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll">
       <publishTime>10/20/2020 12:13:26</publishTime>
     </File>
+    <File Include="runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll">
+      <publishTime>05/24/2023 08:50:22</publishTime>
+    </File>
     <File Include="runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll">
       <publishTime>10/18/2022 10:23:54</publishTime>
     </File>
@@ -207,10 +219,10 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>11/15/2019 02:53:46</publishTime>
     </File>
     <File Include="Seguridad.dll">
-      <publishTime>06/19/2023 16:06:38</publishTime>
+      <publishTime>06/20/2023 21:21:20</publishTime>
     </File>
     <File Include="Seguridad.pdb">
-      <publishTime>06/19/2023 16:06:38</publishTime>
+      <publishTime>06/20/2023 21:21:20</publishTime>
     </File>
     <File Include="SkiaSharp.dll">
       <publishTime>10/03/2022 16:36:52</publishTime>
@@ -233,11 +245,17 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
     <File Include="System.Drawing.Common.dll">
       <publishTime>09/18/2018 13:38:14</publishTime>
     </File>
+    <File Include="System.Formats.Asn1.dll">
+      <publishTime>10/18/2022 10:20:04</publishTime>
+    </File>
     <File Include="System.IdentityModel.Tokens.Jwt.dll">
       <publishTime>05/10/2023 11:17:56</publishTime>
     </File>
     <File Include="System.Runtime.Caching.dll">
       <publishTime>11/15/2019 02:37:36</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.Pkcs.dll">
+      <publishTime>05/24/2023 08:46:12</publishTime>
     </File>
     <File Include="System.Security.Cryptography.ProtectedData.dll">
       <publishTime>11/15/2019 02:37:42</publishTime>
@@ -252,22 +270,27 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>11/15/2019 02:56:52</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>06/20/2023 02:39:50</publishTime>
+      <publishTime>06/20/2023 21:30:36</publishTime>
     </File>
     <File Include="WebAPI.deps.json">
-      <publishTime>06/20/2023 02:39:47</publishTime>
+      <publishTime>06/20/2023 21:30:33</publishTime>
     </File>
     <File Include="WebAPI.dll">
-      <publishTime>06/20/2023 02:39:47</publishTime>
+      <publishTime>06/20/2023 21:30:32</publishTime>
     </File>
     <File Include="WebAPI.exe">
-      <publishTime>06/20/2023 02:39:47</publishTime>
+      <publishTime>06/20/2023 21:30:32</publishTime>
     </File>
     <File Include="WebAPI.pdb">
-      <publishTime>06/20/2023 02:39:47</publishTime>
+      <publishTime>06/20/2023 21:30:32</publishTime>
     </File>
     <File Include="WebAPI.runtimeconfig.json">
-      <publishTime>06/20/2023 02:36:52</publishTime>
+      <publishTime>06/20/2023 21:30:34</publishTime>
     </File>
+  </ItemGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>workstation id=iwDbFinal2.mssql.somee.com%3bpacket size=4096%3buser id=conejito12v2_SQLLogin_2%3bpwd=yd9siiw2bt%3bdata source=iwDbFinal2.mssql.somee.com%3bpersist security info=False%3binitial catalog=iwDbFinal2</Value>
+    </DestinationConnectionStrings>
   </ItemGroup>
 </Project>

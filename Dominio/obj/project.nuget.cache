@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fczKv+1OiT+0a3xmbr78adh0jkoHpMEbSEYCcKM+i463qqmOsidYqhMpvkv38breYpPiTiSylNbZcC5N0Qxfrw==",
+  "dgSpecHash": "MlUSlSY/RQMERm8jVPq2IaHHAy2hORL0MK7/HrdBMvCivS2JqWbIOCXF9866e3ymXyzbs9eXJJQrzjrkVAJV9A==",
   "success": true,
-  "projectFilePath": "C:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj",
+  "projectFilePath": "c:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

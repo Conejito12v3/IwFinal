@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kJOXXOOfBXqcb3mfTgf97iezntaXsEPWyWux7MXKPo/VDVz19UOEjKaFL71TlgaYe3otxy1MrG7hWIAEX96ISg==",
+  "dgSpecHash": "KZLwCSXzy4jOMesWQrsnMK3GXTY7fCMzQz5Eom3poN555Z7Rn4oVytUxeFPub6qy0/6CY7DYddzgMfqJiaQ1kg==",
   "success": true,
-  "projectFilePath": "C:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "c:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.16\\microsoft.aspnetcore.cryptography.internal.6.0.16.nupkg.sha512",

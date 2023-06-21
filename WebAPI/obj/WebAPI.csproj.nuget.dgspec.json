@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyecto1\\EM-v0\\em-api\\WebAPI\\WebAPI.csproj": {}
+    "c:\\Proyecto1\\EM-v0\\em-api\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\Aplicacion.csproj": {
+    "c:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "c:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "c:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\obj\\",
+        "outputPath": "c:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj"
+              "c:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj"
               },
-              "C:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj"
+              "c:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "c:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj": {
+    "c:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj",
+        "projectPath": "c:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto1\\EM-v0\\em-api\\Dominio\\obj\\",
+        "outputPath": "c:\\Proyecto1\\EM-v0\\em-api\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj": {
+    "c:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "c:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj",
+        "projectPath": "c:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\obj\\",
+        "outputPath": "c:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -184,8 +184,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj"
+              "c:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -236,14 +236,14 @@
         }
       }
     },
-    "C:\\Proyecto1\\EM-v0\\em-api\\Seguridad\\Seguridad.csproj": {
+    "c:\\Proyecto1\\EM-v0\\em-api\\Seguridad\\Seguridad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto1\\EM-v0\\em-api\\Seguridad\\Seguridad.csproj",
+        "projectUniqueName": "c:\\Proyecto1\\EM-v0\\em-api\\Seguridad\\Seguridad.csproj",
         "projectName": "Seguridad",
-        "projectPath": "C:\\Proyecto1\\EM-v0\\em-api\\Seguridad\\Seguridad.csproj",
+        "projectPath": "c:\\Proyecto1\\EM-v0\\em-api\\Seguridad\\Seguridad.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto1\\EM-v0\\em-api\\Seguridad\\obj\\",
+        "outputPath": "c:\\Proyecto1\\EM-v0\\em-api\\Seguridad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -264,14 +264,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "C:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\Aplicacion.csproj"
+              "c:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "c:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\Aplicacion.csproj"
               },
-              "C:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj"
+              "c:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Proyecto1\\EM-v0\\em-api\\Dominio\\Dominio.csproj"
               },
-              "C:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj"
+              "c:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "c:\\Proyecto1\\EM-v0\\em-api\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -310,14 +310,14 @@
         }
       }
     },
-    "C:\\Proyecto1\\EM-v0\\em-api\\WebAPI\\WebAPI.csproj": {
+    "c:\\Proyecto1\\EM-v0\\em-api\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto1\\EM-v0\\em-api\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "c:\\Proyecto1\\EM-v0\\em-api\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Proyecto1\\EM-v0\\em-api\\WebAPI\\WebAPI.csproj",
+        "projectPath": "c:\\Proyecto1\\EM-v0\\em-api\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto1\\EM-v0\\em-api\\WebAPI\\obj\\",
+        "outputPath": "c:\\Proyecto1\\EM-v0\\em-api\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -338,11 +338,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "C:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\Aplicacion.csproj"
+              "c:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "c:\\Proyecto1\\EM-v0\\em-api\\Aplicacion\\Aplicacion.csproj"
               },
-              "C:\\Proyecto1\\EM-v0\\em-api\\Seguridad\\Seguridad.csproj": {
-                "projectPath": "C:\\Proyecto1\\EM-v0\\em-api\\Seguridad\\Seguridad.csproj"
+              "c:\\Proyecto1\\EM-v0\\em-api\\Seguridad\\Seguridad.csproj": {
+                "projectPath": "c:\\Proyecto1\\EM-v0\\em-api\\Seguridad\\Seguridad.csproj"
               }
             }
           }
@@ -357,6 +357,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[6.0.16, )"
@@ -372,6 +376,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.16, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
